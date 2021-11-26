@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aritrakoley
 - 👀 I’m interested in web design and development, machine learning and improving my understanding of computer science in general
-- 🌱 I’m currently learning ReactJS framework
-- 💞️ I’m looking to collaborate on small and easy web dev projects with no hard deadlines
+- 🌱 I’m currently trying to get started with open source contributions
+- 💞️ I’m looking to collaborate on popular open source projects to better understand how things work in the open source ecosystem
 - 📫 mail me at koley.aritra824@gmail.com
 
 <!---
